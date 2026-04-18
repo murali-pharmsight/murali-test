@@ -1,6 +1,5 @@
 ═══════════════════════════════════════════════════════════════════════════════
-                    MEETINGNOTE - OFFLINE MEETING RECORDER
-                              QUICK START GUIDE
+                    MEETINGNOTE - Test Push
 ═══════════════════════════════════════════════════════════════════════════════
 
 ✅ PROJECT STATUS: COMPLETE & READY TO BUILD
